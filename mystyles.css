@@ -72,7 +72,7 @@ li#logo.navbarbrand {
 
 #home {
     /*    center and scale the image*/
-    background: url("http://www.jumpinvestors.com//images/about.jpg");
+    background: url("http://www.jumpinvestors.com/images/about.jpg");
     background-position: center;
     background-repeat: repeat-y;
     background-size: cover;
